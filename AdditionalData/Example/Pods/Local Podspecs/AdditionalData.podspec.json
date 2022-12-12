@@ -1,0 +1,22 @@
+{
+  "name": "AdditionalData",
+  "version": "0.1.0",
+  "summary": "A short description of AdditionalData.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/97111661/AdditionalData",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "97111661": "tommyyonprakoso@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/97111661/AdditionalData.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "AdditionalData/Classes/**/*"
+}

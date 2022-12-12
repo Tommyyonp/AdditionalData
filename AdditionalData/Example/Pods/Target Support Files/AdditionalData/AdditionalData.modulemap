@@ -1,0 +1,6 @@
+framework module AdditionalData {
+  umbrella header "AdditionalData-umbrella.h"
+
+  export *
+  module * { export * }
+}
