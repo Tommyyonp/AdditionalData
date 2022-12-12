@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'AdditionalData_Example' do
+  pod 'AdditionalData', :path => '../'
+
+  target 'AdditionalData_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
